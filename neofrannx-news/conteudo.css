@@ -25,3 +25,6 @@ img{
     border-radius: 15px;
     width: 100%;
 }
+p span{
+    color: orange;
+}
