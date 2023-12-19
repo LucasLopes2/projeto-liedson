@@ -1,0 +1,27 @@
+@charset "utf-8";
+h2 span{
+    color: darkorange;
+}
+main{
+    text-align: justify;
+    padding: 35px;
+}
+h1{
+    font-size: 2.3em;
+    font-weight: bold;
+    border-left: 15px solid darkorange;
+    padding: 10px;
+}
+h3{
+    padding: 15px;
+    color: orange;
+    font-size: 1.6em;
+}
+p{
+    font-size: 1.4em;
+    font-weight: lighter;
+}
+img{
+    border-radius: 15px;
+    width: 100%;
+}
