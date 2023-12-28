@@ -1,0 +1,51 @@
+@charset "utf-8";
+h1{
+    padding: 30px;
+}
+img{
+    width: 55%;
+}
+
+main {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.perfil-usu,.infos
+{
+    width: 38%;
+}
+p > strong{
+    color: orange;
+    font-size: 1.5em;
+}
+P span{
+    color: orange;
+}
+li{
+    padding: 10px;
+    font-weight: lighter;
+    font-size: 1em;
+
+}
+.perfil-usu > p{
+    font-size: 1em;
+    font-weight: lighter;
+}
+p a{
+    padding: 4px;
+    padding-left: 7px;
+    border: 1px solid black;
+    border-radius: 6px;
+    text-decoration: none;
+    
+}
+.infos{
+    font-size: 1.4em;
+    font-weight: bolder;
+    border-left: 2px solid orange;
+    text-align: justify;
+    padding-left: 25px;
+}
